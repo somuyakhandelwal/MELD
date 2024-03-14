@@ -3,7 +3,7 @@ import Logo from '../assets/Logo'
 
 const Navbar = () => {
   return (
-    <div className=' flex justify-between items-center h-20 border-2 border-t-0 border-black px-6 rounded-b-2xl fixed inset-x-0 ml-20 mr-20 bg-white'>
+    <div className=' flex justify-between items-center h-20 border-2 border-t-0 border-black px-6 rounded-b-2xl fixed inset-x-0 ml-20 mr-20 bg-white z-50'>
     <Logo/>
     <div className=' flex justify-evenly gap-20 text-xl'>
       <div>
