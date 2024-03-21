@@ -18,7 +18,7 @@ const Navbar = () => {
         </div>
         <div>
           {/* Use Link component to navigate to /login */}
-          <Link className='bg-black text-white rounded-lg shadow-md px-4 py-1' to="/login">Login</Link>
+          <Link className='bg-black text-white rounded-lg shadow-md px-4 py-1' to="#">Validate</Link>
         </div>
       </div>
     </div>
